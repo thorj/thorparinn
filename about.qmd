@@ -16,4 +16,4 @@ about:
 
 ---
 
-About this blog
+Yet another uninspired quarto-based blog while I figure out how to self-host.
